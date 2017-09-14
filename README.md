@@ -40,6 +40,7 @@ More info [here](http://www.frida.re/).
 * [frida-memory-stream](https://github.com/nowsecure/frida-memory-stream) - Create a stream from one or more memory regions.
 * [frida-fs](https://github.com/nowsecure/frida-fs) - Create a stream from a filesystem resource.
 * [frida-push](https://github.com/AndroidTamer/frida-push) - Automatically `adb push` the correct frida-server matching your current frida installation.
+* [frida-scripts](https://github.com/0xdea/frida-scripts) - instrumentation scripts to facilitate reverse engineering of android and iOS Apps.
 
 <a name="projects" />
 
@@ -50,8 +51,6 @@ More info [here](http://www.frida.re/).
 - [frida-cycript](https://github.com/nowsecure/frida-cycript) - Fork of cycript with new runtime called [Mjølner](https://github.com/nowsecure/mjolner) powered by Frida.
 - [r2frida](https://github.com/nowsecure/r2frida) - static and dynamic analysis synergy
 - [ios-inject-custom](https://github.com/oleavr/ios-inject-custom) - use Frida for standalone injection of a custom payload for iOS.
-- [frida-scripts](https://github.com/0xdea/frida-scripts) - instrumentation scripts to facilitate reverse engineering of android and iOS Apps.
-
 
 <a name="talks-and-papers" />
 
